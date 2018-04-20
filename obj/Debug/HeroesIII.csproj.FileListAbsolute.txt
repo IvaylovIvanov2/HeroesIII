@@ -1,0 +1,16 @@
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\bin\Debug\HeroesIII.exe.config
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\bin\Debug\HeroesIII.exe
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\bin\Debug\HeroesIII.pdb
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\obj\Debug\HeroesIII.csprojResolveAssemblyReference.cache
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\obj\Debug\HeroesIII.exe
+c:\users\ivail\documents\visual studio 2015\Projects\HeroesIII\HeroesIII\obj\Debug\HeroesIII.pdb
+C:\Users\ivail\Documents\GitHub\HeroesIII\HeroesIII\bin\Debug\HeroesIII.exe.config
+C:\Users\ivail\Documents\GitHub\HeroesIII\HeroesIII\obj\Debug\HeroesIII.exe
+C:\Users\ivail\Documents\GitHub\HeroesIII\HeroesIII\obj\Debug\HeroesIII.pdb
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\bin\Debug\HeroesIII.exe.config
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\bin\Debug\HeroesIII.exe
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\bin\Debug\HeroesIII.pdb
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\obj\Debug\HeroesIII.csprojResolveAssemblyReference.cache
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\obj\Debug\HeroesIII.csproj.CoreCompileInputs.cache
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\obj\Debug\HeroesIII.exe
+C:\Users\ivail\Desktop\HeroesIII-master\HeroesIII-master\HeroesIII\obj\Debug\HeroesIII.pdb
